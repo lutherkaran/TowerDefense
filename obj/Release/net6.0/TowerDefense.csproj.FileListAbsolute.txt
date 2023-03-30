@@ -1,0 +1,4 @@
+C:\Users\karan\Downloads\programming-exercise-2023-main\programming-exercise-2023-main\TowerDefense\obj\Release\net6.0\TowerDefense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karan\Downloads\programming-exercise-2023-main\programming-exercise-2023-main\TowerDefense\obj\Release\net6.0\TowerDefense.AssemblyInfoInputs.cache
+C:\Users\karan\Downloads\programming-exercise-2023-main\programming-exercise-2023-main\TowerDefense\obj\Release\net6.0\TowerDefense.AssemblyInfo.cs
+C:\Users\karan\Downloads\programming-exercise-2023-main\programming-exercise-2023-main\TowerDefense\obj\Release\net6.0\TowerDefense.csproj.CoreCompileInputs.cache
